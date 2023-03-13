@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [ How To Setup a Resource Group](https://loom.com/share/8422f53eaf4a4f2fba271ee6545a38dc)
+- ### [ How To Setup a Resource Group](https://loom.com/share/a4b3e70ccf6246aa89bed4496dea9a86)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -42,10 +42,12 @@ In order to set up the ticketing system, we first have to create the environment
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/VCKgUVs"><img src="https://i.imgur.com/VCKgUVs.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<a href="https://imgur.com/Ovs3XN8"><img src="https://i.imgur.com/Ovs3XN8.png" title="source: imgur.com" /></a>
+
+So after setting up the IIS, we check that it is working rpoperly by doing the 127.0.0.1 localhost loopback 
 </p>
 <br />
 
