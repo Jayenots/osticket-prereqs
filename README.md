@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<b>osTicket is a widely-used open source support ticket system which seamlessly integrates inquiries created via email, phone and web-based forms into a simple easy-to-use multi-user web interface. It can manage, organize and archive all your support requests and responses in one place while providing your customers with accountability and responsiveness.<b><br />
 
 
 <h2>Video Demonstration</h2>
@@ -58,3 +58,4 @@ So after setting up the IIS, we check that it is working rpoperly by doing the 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+https://i.imgur.com/BBPr0mx.png
