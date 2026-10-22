@@ -76,7 +76,7 @@ In order to set up the ticketing system, we first have to create the environment
 
 - Open C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php -Change ost-sampleconfig.php to ost-config.php.
 
-- Right click ost-config then select Properties. -Disable inheritance then remove all. -New permissions, give to "Everyone", select all.
+- Configure permissions on ost-config.php using least privilege. Grant temporary installation write access only to the required IIS application identity, rather than Everyone. After installation, remove write access and retain only the permissions required for normal operation.
 
 - Set up your osTicket in your browser. Scroll to the bottom of the osTicket page in your browser and fill in the remaining boxes.
 
