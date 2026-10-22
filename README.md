@@ -3,7 +3,9 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. OsTicket is a widely-used open source support ticket system which seamlessly integrates inquiries created via email, phone and web-based forms into a simple easy-to-use multi-user web interface. It can manage, organize and archive all your support requests and responses in one place while providing your customers with accountability and responsiveness.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. OsTicket is a widely-used open source support ticket system which seamlessly integrates inquiries created via email, phone and web-based forms into a simple easy-to-use multi-user web interface. It can manage, organize and archive all your support requests and responses in one place while providing your customers with accountability and responsiveness.
+
+Historical learning lab documenting an osTicket installation in an isolated Azure environment. The software versions shown are historical and should not be used as current deployment guidance. Use unique credentials, restrict access, and follow current vendor security guidance for any new deployment.<br />
 
 
 <h2>Video Demonstration</h2>
