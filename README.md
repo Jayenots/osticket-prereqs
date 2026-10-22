@@ -80,7 +80,7 @@ In order to set up the ticketing system, we first have to create the environment
 
 - Set up your osTicket in your browser. Scroll to the bottom of the osTicket page in your browser and fill in the remaining boxes.
 
-- Open Heidi SQL -Create new session, root/Password1. -Connect to session. -Create a database called "osTicket".
+- Open HeidiSQL, create a new session, and connect using your own database administrator credentials. Create a database named osTicket.
 
 - Continue setting up osTicket in the browser. -Enter MYSQL information.
 
